@@ -3,14 +3,14 @@ Ansible role для развертывания Lighthouse
 
 Роль предназначена для развертывания Lighthouse на операционной системе Centos 7
 
-Requirements
+Требования
 ------------
 
 Требования для установки роли:
 
 1. Операционная система Centos
 
-Role Variables
+Переменные роли
 --------------
 
 Переменные для данной роли не определены
@@ -30,12 +30,12 @@ Role Variables
    roles: lighthouse-role
    tags: lighthouse      
 
-License
+Лицензия
 -------
 
 MIT
 
-Author Information
+Информация об авторе
 ------------------
 
 Олег Троицкий, учебная работа, 2023
